@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rasheed Nurudeen
 - 👀 I’m interested in Data Analysis and Data Science.
-- 🌱 I’m currently learninG and practicing my excel and Power BI skills
-- 💞️ I’m looking to collaborate on power BI and Excel
+- 🌱 I’m currently learning and practicing data analysis using Excel and Power BI skills
+- 💞️ I’m looking to collaborate on Power BI and Excel
 - 📫 How to reach me rosheed.excel@gmail.com
 - 
 
